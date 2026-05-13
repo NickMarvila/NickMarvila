@@ -27,13 +27,13 @@ const nicolas = {
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css&theme=dark" alt="Languages" />
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs&theme=dark" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,spring&theme=dark" alt="Frameworks" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" alt="Tools" />
 
 </div>
 
